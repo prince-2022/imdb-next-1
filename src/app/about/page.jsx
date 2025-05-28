@@ -26,7 +26,7 @@ export default function About() {
         feedback or suggestions, please feel free to contact us. We are always
         looking for ways to improve and enhance the user experience on our
         website. Happy browsing!
-      </p>
+      </p> 
     </div>
   );
 }
